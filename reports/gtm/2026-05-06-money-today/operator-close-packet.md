@@ -36,6 +36,8 @@ Build an autonomous passive-income business from the AI Automation Agency Hub "f
 - Product fulfillment docs.
 - Fulfillment ZIP: `dist/claude-client-finder-passive-income-kit-2026-05-06.zip`.
 - Published LinkedIn post through logged-in Comet session with the live $29 Stripe checkout link.
+- Published public GitHub repo: https://github.com/IgorGanapolsky/skool-automation-agency-ninjas
+- Enabled and verified GitHub Pages landing URL: https://igorganapolsky.github.io/skool-automation-agency-ninjas/
 
 ## Distribution Rules
 
