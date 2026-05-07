@@ -187,6 +187,20 @@ Timezone window: America/New_York, 2026-05-07 00:00 through 2026-05-08 00:00.
   - Balance: `$0` available, `$0` pending.
   - May 7 charges: none.
   - May 7 payment intents: none.
+- Ran Bluesky reply monitor with bounded auto-publish:
+  - Run: `https://github.com/IgorGanapolsky/ThumbGate/actions/runs/25508621623`
+  - Result: workflow succeeded.
+  - Monitor summary: `notifications=31`, `actionable=13`, `queued=9`, `approved=1`, `skipped=4`.
+  - One safe reply was posted for an existing ThumbGate guardrail conversation:
+    `at://did:plc:67posxdluf3h6sri6ciqivzx/app.bsky.feed.post/3mlbn6mejja2s`
+  - This was real engagement, but not a restaurant-bundle buyer reply.
+- Created a targeted Miami sandwich/QSR lead sheet from public web search:
+  - `sales/leads/2026-05-07-miami-sandwich-qsr-leads.md`
+  - Leads were not marked contacted because email/contact-form reply identity was not re-authorized and no non-email send occurred.
+- Verified Stripe after reply monitoring and lead build:
+  - Balance: `$0` available, `$0` pending.
+  - May 7 charges: none.
+  - May 7 payment intents: none.
 
 ## Current Revenue Truth
 
