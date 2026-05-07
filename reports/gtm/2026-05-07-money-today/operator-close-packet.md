@@ -57,6 +57,34 @@ Timezone window: America/New_York, 2026-05-07 00:00 through 2026-05-08 00:00.
   - Tracked CTAs used:
     - Teams: `https://thumbgate-production.up.railway.app/go/team?utm_source=zernio&utm_medium=social&utm_campaign=may7_aiventyx_signal`
     - Pro: `https://thumbgate-production.up.railway.app/go/pro?utm_source=zernio&utm_medium=social&utm_campaign=may7_aiventyx_signal`
+- Dispatched a short $499 diagnostic offer through `Zernio Offer Dispatch`:
+  - Run: `https://github.com/IgorGanapolsky/ThumbGate/actions/runs/25498972738`
+  - Published count reported by workflow: `2`.
+  - Bluesky Zernio post id: `69fc949c6bc994c0e78e5641`.
+  - Threads Zernio post id: `69fc94a06bc994c0e78e56f3`.
+  - The checkout link was included, but the post text lost the visible `$499` price because shell expansion stripped `$499` from the workflow input. Status: published but copy quality degraded.
+- Posted a value-first Skool comment on the real-estate AI systems thread:
+  `https://www.skool.com/learn-ai/ai-systems-for-real-estate?p=72927b2d`
+  - The comment gave niche-specific workflow advice and included a soft $99 same-day teardown CTA.
+  - Checkout link used: `https://buy.stripe.com/eVqeVdfCYcXAf0lbCr3sI1M`
+- Installed/verified ThumbGate for this workspace before continuing:
+  - Global npm package: `thumbgate@1.16.21`, matching npm `latest` and GitHub release `v1.16.21`.
+  - Workspace status: enforcement active, 36 gates, 1 captured negative lesson.
+  - Captured the Gmail/Mail quota failure as a negative ThumbGate lesson: do not use Mail.app, Gmail, Resend, or any email-sending route again unless explicitly re-authorized in the current turn.
+- Ingested Skool AI Automation Agency Hub main feed and AI Consultant Crash Course:
+  - Top classroom modules: Start Here, AI Consultant Crash Course, AI Builder Bootcamp, AI Foundations, Success Stories, 1-on-1 Coaching, Building Morningside, Resources.
+  - AI Consultant path summary: AI Tools Audit first, warm outreach over cold outreach, soft referral ask, 15-minute discovery call, intake form, 60-minute audit, opportunities report, live presentation, testimonial/proof, then beta pricing from free to `$250`, `$500`, `$750`, `$1,000+`.
+- Replied to inbound Skool chats:
+  - Bilal Hussain: sent a same-day revenue/offer teardown reply with the $99 checkout link and no-income-guarantee disclaimer.
+  - Albert Shiney: sent a first-offer teardown reply with the $99 checkout link and no-income-guarantee disclaimer.
+- Posted/confirmed public Skool engagement on Curtis Peck's "Getting clients" thread:
+  `https://www.skool.com/learn-ai/getting-clients-1f222cf0`
+  - Advice focused on narrowing "service businesses" into one vertical and writing outreach around a visible workflow leak.
+- Posted public Skool engagement on Cav S's "Looking for AI Devs or Agency (Top tier)" hiring thread:
+  `https://www.skool.com/learn-ai/looking-for-ai-devs-or-agency-top-tier`
+  - Advice focused on pressure-testing WhatsApp/AI-agent handoff, existing-number support, AI on/off controls, human takeover, and CRM/event logs.
+  - No checkout link was included.
+- Avoided posting after a browser focus issue placed draft text into Dan Wardrope's chat input. The draft was cleared and was not sent.
 
 ## Current Revenue Truth
 
@@ -64,6 +92,16 @@ Timezone window: America/New_York, 2026-05-07 00:00 through 2026-05-08 00:00.
 - Confirmed Mercor earned time today: `$0`; the contract is active but work has not started because access/time-tracking prerequisites are blocked.
 - Confirmed buyer/support emails sent after the Gmail cap was observed: `0`.
 - Confirmed public Zernio distribution after Gmail cap: partial success, `4` publishes reported by workflow, but no revenue confirmed yet.
+- Confirmed additional Zernio distribution after the partial run: `2` publishes reported by workflow.
+- Confirmed additional Skool comment engagement: `1` real-estate thread comment with a soft CTA.
+- Confirmed additional Skool engagement after ThumbGate verification:
+  - `2` inbound Skool chat replies with $99 teardown link.
+  - `1` public Skool comment on "Getting clients".
+  - `1` public Skool comment on Cav S's AI dev/agency hiring thread.
+- Stripe re-check after Skool engagement:
+  - Balance: `$0` available, `$0` pending.
+  - May 7 charges: none.
+  - May 7 payment intents: none.
 
 ## Rules
 
