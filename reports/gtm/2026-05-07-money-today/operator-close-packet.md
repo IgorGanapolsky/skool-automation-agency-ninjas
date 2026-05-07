@@ -85,6 +85,23 @@ Timezone window: America/New_York, 2026-05-07 00:00 through 2026-05-08 00:00.
   - Advice focused on pressure-testing WhatsApp/AI-agent handoff, existing-number support, AI on/off controls, human takeover, and CRM/event logs.
   - No checkout link was included.
 - Avoided posting after a browser focus issue placed draft text into Dan Wardrope's chat input. The draft was cleared and was not sent.
+- Posted public Skool engagement on Harry Mullett's "UK Agencies with experience in LinkedIn Appointment Setters" thread:
+  `https://www.skool.com/learn-ai/uk-agencies-with-experience-in-linkedin-appointment-setters`
+  - Advice focused on separating channel fit from setter quality, ICP, reply reason, KPI ownership, and checking call recordings/examples before hiring.
+  - No checkout link was included.
+- Continued the inbound Dan Wardrope chat after his positioning advice:
+  - Dan advised opening the conversation first, then diagnosing problems, then offering to lead a solution build.
+  - Dan also said the less the seller talks about tools, the more deals close.
+  - No checkout link was sent; this was treated as mentor/positioning input, not a buyer lead.
+- Posted public Skool engagement on Ragul M.d's "Looking for AI Developers" thread:
+  `https://www.skool.com/learn-ai/looking-for-ai-developers-2?p=a17fe6e8`
+  - Advice focused on clarifying whether the build is a B2C product improvement or an AAA case study, then requiring an architecture diagram, human handoff path, and success metric before hiring.
+  - No checkout link was included because the thread was older and a hard public CTA would be low-trust.
+- Attempted to reopen Skool chats after the Ragul comment to continue warm replies. The popover did not stay open reliably, so no additional chat messages were sent or claimed.
+- Verified Stripe again at 2026-05-07 10:16 EDT:
+  - Balance: `$0` available, `$0` pending.
+  - May 7 charges: none.
+  - May 7 payment intents: none.
 
 ## Current Revenue Truth
 
@@ -98,7 +115,14 @@ Timezone window: America/New_York, 2026-05-07 00:00 through 2026-05-08 00:00.
   - `2` inbound Skool chat replies with $99 teardown link.
   - `1` public Skool comment on "Getting clients".
   - `1` public Skool comment on Cav S's AI dev/agency hiring thread.
+  - `1` public Skool comment on Harry Mullett's LinkedIn appointment setter thread.
+  - `1` public Skool comment on Ragul M.d's AI developer thread.
+  - `1` continued mentor/positioning chat with Dan Wardrope; no checkout link sent.
 - Stripe re-check after Skool engagement:
+  - Balance: `$0` available, `$0` pending.
+  - May 7 charges: none.
+  - May 7 payment intents: none.
+- Stripe re-check after the latest Skool engagement:
   - Balance: `$0` available, `$0` pending.
   - May 7 charges: none.
   - May 7 payment intents: none.
