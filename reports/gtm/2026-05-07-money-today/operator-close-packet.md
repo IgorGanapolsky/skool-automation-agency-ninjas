@@ -47,12 +47,23 @@ Timezone window: America/New_York, 2026-05-07 00:00 through 2026-05-08 00:00.
   - Okta password reset returns: "Reset password is not allowed at this time. Please contact support for assistance."
   - Safari/Mercor "Contact support" opens a `mailto:` composer only; Gmail cannot send today due the sending-limit error.
 - Attempted to add a temporary GitHub Actions Resend workflow to route around Gmail. GitHub rejected direct creation on `IgorGanapolsky/ThumbGate` because protected branch rules require changes through a pull request. Status: `not_sent`.
+- Dispatched ThumbGate/Aiventyx CTR follow-up through the existing `Zernio Custom Post Dispatch` workflow:
+  - Run: `https://github.com/IgorGanapolsky/ThumbGate/actions/runs/25497924693`
+  - Published count reported by workflow: `4`.
+  - Reddit publish log included Zernio post id `69fc8fa8cad9d6053fc3885f`.
+  - Instagram skipped because media is required.
+  - Bluesky, Threads, and Twitter blocked because the post exceeded platform length limits.
+  - YouTube failed because video content is required, causing the overall workflow to exit non-zero.
+  - Tracked CTAs used:
+    - Teams: `https://thumbgate-production.up.railway.app/go/team?utm_source=zernio&utm_medium=social&utm_campaign=may7_aiventyx_signal`
+    - Pro: `https://thumbgate-production.up.railway.app/go/pro?utm_source=zernio&utm_medium=social&utm_campaign=may7_aiventyx_signal`
 
 ## Current Revenue Truth
 
 - Confirmed Stripe revenue today: `$0`.
 - Confirmed Mercor earned time today: `$0`; the contract is active but work has not started because access/time-tracking prerequisites are blocked.
 - Confirmed buyer/support emails sent after the Gmail cap was observed: `0`.
+- Confirmed public Zernio distribution after Gmail cap: partial success, `4` publishes reported by workflow, but no revenue confirmed yet.
 
 ## Rules
 
