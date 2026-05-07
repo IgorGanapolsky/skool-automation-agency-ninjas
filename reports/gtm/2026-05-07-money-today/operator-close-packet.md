@@ -116,6 +116,38 @@ Timezone window: America/New_York, 2026-05-07 00:00 through 2026-05-08 00:00.
   - Balance: `$0` available, `$0` pending.
   - May 7 charges: none.
   - May 7 payment intents: none.
+- Captured the visible excerpt of Dan Wardrope's AI Automation Agency Ninjas ManyChat/Meta DM retainer post:
+  `data/raw/skool_snapshots/2026-05-07-ai-automation-agency-ninjas-manychat-visible.md`
+  - Capture scope is visible excerpt only; the collapsed "See more" body was not fully ingested.
+  - Top visible signal: high-volume Meta comment-keyword-to-DM funnel with ManyChat-style automation and a natural reliability/retainer wedge.
+- Implemented a dependency-free local Skool RAG/buyer-signal pipeline:
+  - Script: `scripts/skool_rag.py`
+  - Docs: `docs/skool-rag.md`
+  - Outputs: `data/processed/skool_rag/documents.jsonl`, `tfidf_index.json`, `buyer_signals.jsonl`
+  - Verified commands: `scripts/skool_rag.py ingest`, `scripts/skool_rag.py ask "ManyChat Meta DM reliability diagnostic" --top-k 3`, `scripts/skool_rag.py signals --top-k 5`
+  - Current top-ranked buyer signal: the ManyChat/Meta DM diagnostic pattern, confidence `medium_visible_excerpt`.
+- Created a live Stripe product, price, and payment link for the specific offer:
+  - Product: `Meta DM Funnel Reliability Diagnostic`
+  - Stripe product id: `prod_UTQzzlUOSmxo5z`
+  - Stripe price id: `price_1TUU7MGGBpd520QYASAMkp0p`
+  - Checkout: `https://buy.stripe.com/aFa6oHbmIf5I4lHdKz3sI1T`
+- Added fulfillment and distribution assets:
+  - `product/manychat-meta-dm-funnel-diagnostic.md`
+  - `sales/posts/2026-05-07-manychat-meta-dm-diagnostic.md`
+  - Updated `automation/zernio-social-posts.json`, `README.md`, and `sales/offer-page.md`.
+- Published the new $499 ManyChat/Meta DM diagnostic through Zernio:
+  - Threads/primary run: `https://github.com/IgorGanapolsky/ThumbGate/actions/runs/25506493551`
+  - Result: workflow succeeded; `published=2`, `errors=0`.
+  - Zernio post id reported: `69fcb4701dc13cb535319f98`.
+  - Bluesky was skipped in this run because the first copy was 333/300 characters.
+- Published the shortened Bluesky-safe diagnostic copy through Zernio:
+  - Run: `https://github.com/IgorGanapolsky/ThumbGate/actions/runs/25506621421`
+  - Result: workflow succeeded; `published=1`, `errors=0`.
+  - Zernio post id reported: `69fcb501962d23b986180eb4`.
+- Verified Stripe after the new checkout and Zernio publishes:
+  - Balance: `$0` available, `$0` pending.
+  - May 7 charges: none.
+  - May 7 payment intents: none.
 
 ## Current Revenue Truth
 
@@ -143,6 +175,10 @@ Timezone window: America/New_York, 2026-05-07 00:00 through 2026-05-08 00:00.
   - May 7 charges: none.
   - May 7 payment intents: none.
 - Stripe re-check after the newest Skool engagement:
+  - Balance: `$0` available, `$0` pending.
+  - May 7 charges: none.
+  - May 7 payment intents: none.
+- Stripe re-check after the ManyChat diagnostic publish:
   - Balance: `$0` available, `$0` pending.
   - May 7 charges: none.
   - May 7 payment intents: none.

@@ -13,6 +13,7 @@ Sell a self-serve "first AI automation client" product ladder to beginners who a
 - Claude Client Finder 25-Prospect Sprint, $49: https://buy.stripe.com/bJeaEXbmI8Hk3hDdKz3sI1F
 - AI Client Signal Brief, $49/month: https://buy.stripe.com/4gM9AT9eA9LoaK59uj3sI1H
 - AI Automation Workflow Reliability Diagnostic, $499: https://buy.stripe.com/eVq6oH8aw8Hk05rdKz3sI1G
+- Meta DM Funnel Reliability Diagnostic, $499: https://buy.stripe.com/aFa6oHbmIf5I4lHdKz3sI1T
 
 ## Operating Rule
 
@@ -21,9 +22,11 @@ Do not spam, scrape private member data, mass DM, or post checkout links into ge
 ## Files
 
 - `product/first-client-passive-income-kit.md`: fulfillment product.
+- `product/manychat-meta-dm-funnel-diagnostic.md`: $499 ManyChat/Meta DM diagnostic fulfillment.
 - `product/monthly-signal-brief.md`: subscription deliverable format.
 - `sales/offer-page.md`: storefront copy.
 - `sales/resend-sequence.md`: email launch sequence.
 - `automation/zernio-social-posts.json`: social post queue.
+- `docs/skool-rag.md`: local Skool snapshot RAG pipeline commands.
 - `reports/gtm/2026-05-06-money-today/operator-close-packet.md`: execution log.
 - `site/index.html`: static landing page.

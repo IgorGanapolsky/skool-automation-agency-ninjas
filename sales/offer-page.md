@@ -32,6 +32,7 @@ Checkout: https://buy.stripe.com/aFa7sLbmI1eS9G1cGv3sI1D
 - 25-prospect sprint, $49: https://buy.stripe.com/bJeaEXbmI8Hk3hDdKz3sI1F
 - Monthly signal brief, $49/month: https://buy.stripe.com/4gM9AT9eA9LoaK59uj3sI1H
 - Workflow diagnostic, $499: https://buy.stripe.com/eVq6oH8aw8Hk05rdKz3sI1G
+- Meta DM Funnel Reliability Diagnostic, $499: https://buy.stripe.com/aFa6oHbmIf5I4lHdKz3sI1T
 
 ## Best For
 
