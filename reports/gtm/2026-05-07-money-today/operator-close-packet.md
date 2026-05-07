@@ -170,6 +170,23 @@ Timezone window: America/New_York, 2026-05-07 00:00 through 2026-05-08 00:00.
   - Balance: `$0` available, `$0` pending.
   - May 7 charges: none.
   - May 7 payment intents: none.
+- Built the actual fulfillable restaurant bundle ZIP:
+  - Source folder: `product/subway-style-restaurant-ai-agent-bundle/`
+  - Deliverable: `dist/subway-style-restaurant-ai-agent-bundle-2026-05-07.zip`
+  - Verified archive contents with `unzip -l`.
+- Attempted direct LinkedIn publishing through `LinkedIn Post Dispatch`:
+  - Run: `https://github.com/IgorGanapolsky/ThumbGate/actions/runs/25508188406`
+  - Workflow completed but did not publish.
+  - Blocker: stored LinkedIn token returned HTTP 401; log says refresh `LINKEDIN_ACCESS_TOKEN`.
+- Published a shorter fulfillable-bundle CTA through Zernio:
+  - Run: `https://github.com/IgorGanapolsky/ThumbGate/actions/runs/25508232877`
+  - Result: workflow succeeded; `published=2`, `errors=0`.
+  - Bluesky Zernio post id: `69fcbc8659432d765a992f47`.
+  - Threads Zernio post id: `69fcbc8997410a0270f60f76`.
+- Verified Stripe after the fulfillable bundle and additional publishes:
+  - Balance: `$0` available, `$0` pending.
+  - May 7 charges: none.
+  - May 7 payment intents: none.
 
 ## Current Revenue Truth
 
@@ -205,6 +222,10 @@ Timezone window: America/New_York, 2026-05-07 00:00 through 2026-05-08 00:00.
   - May 7 charges: none.
   - May 7 payment intents: none.
 - Stripe re-check after the restaurant bundle publish:
+  - Balance: `$0` available, `$0` pending.
+  - May 7 charges: none.
+  - May 7 payment intents: none.
+- Stripe re-check after the fulfillable bundle and second Zernio push:
   - Balance: `$0` available, `$0` pending.
   - May 7 charges: none.
   - May 7 payment intents: none.

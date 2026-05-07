@@ -53,7 +53,11 @@ Natural backend:
 
 ## Fulfillment
 
-Deliver as a ZIP/PDF pack with:
+Deliverable ZIP:
+
+- `dist/subway-style-restaurant-ai-agent-bundle-2026-05-07.zip`
+
+Included files:
 
 - `01-missed-call-agent.md`
 - `02-catering-intake-agent.md`

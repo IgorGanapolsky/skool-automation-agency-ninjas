@@ -25,6 +25,7 @@ Do not spam, scrape private member data, mass DM, or post checkout links into ge
 - `product/first-client-passive-income-kit.md`: fulfillment product.
 - `product/manychat-meta-dm-funnel-diagnostic.md`: $499 ManyChat/Meta DM diagnostic fulfillment.
 - `product/subway-style-restaurant-ai-agent-bundle.md`: $97 restaurant AI-agent bundle.
+- `dist/subway-style-restaurant-ai-agent-bundle-2026-05-07.zip`: restaurant AI-agent bundle deliverable.
 - `product/monthly-signal-brief.md`: subscription deliverable format.
 - `sales/offer-page.md`: storefront copy.
 - `sales/resend-sequence.md`: email launch sequence.
