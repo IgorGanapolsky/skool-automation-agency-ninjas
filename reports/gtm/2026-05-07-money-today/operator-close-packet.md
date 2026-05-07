@@ -148,6 +148,28 @@ Timezone window: America/New_York, 2026-05-07 00:00 through 2026-05-08 00:00.
   - Balance: `$0` available, `$0` pending.
   - May 7 charges: none.
   - May 7 payment intents: none.
+- Captured the user's ThumbGate thumbs-up as feedback id `fb_1778169587695_kf1vi1` after the correction to use the provided sales-resource shortlist without claiming unsupported ingestion.
+- Converted the provided sales-resource shortlist into an OpenClaw sales-agent SOP:
+  - `docs/openclaw-sales-agent-sop.md`
+  - The SOP uses framework-level guidance only and explicitly avoids claiming copyrighted book ingestion unless the source text is provided.
+- Created a live Stripe checkout for a restaurant product lane:
+  - Product: `Subway-Style Restaurant AI Agent Bundle`
+  - Stripe product id: `prod_UTRDdnbv61steb`
+  - Stripe price id: `price_1TUULAGGBpd520QYfaAVokmf`
+  - Checkout: `https://buy.stripe.com/00w6oH1M89Lo7xTayn3sI1V`
+- Added restaurant bundle assets:
+  - `product/subway-style-restaurant-ai-agent-bundle.md`
+  - `sales/posts/2026-05-07-subway-style-restaurant-ai-agent-bundle.md`
+  - `sales/outreach/2026-05-07-subway-style-restaurant-ai-agent-outreach.md`
+- Published the restaurant bundle through Zernio:
+  - Run: `https://github.com/IgorGanapolsky/ThumbGate/actions/runs/25507231792`
+  - Result: workflow succeeded; `published=1`, `errors=0`.
+  - Zernio post id reported: `69fcb7b2ff21622239448e54`.
+  - Zernio found connected Threads accounts for this run; LinkedIn was not published by the provider selection.
+- Verified Stripe after the restaurant bundle publish:
+  - Balance: `$0` available, `$0` pending.
+  - May 7 charges: none.
+  - May 7 payment intents: none.
 
 ## Current Revenue Truth
 
@@ -179,6 +201,10 @@ Timezone window: America/New_York, 2026-05-07 00:00 through 2026-05-08 00:00.
   - May 7 charges: none.
   - May 7 payment intents: none.
 - Stripe re-check after the ManyChat diagnostic publish:
+  - Balance: `$0` available, `$0` pending.
+  - May 7 charges: none.
+  - May 7 payment intents: none.
+- Stripe re-check after the restaurant bundle publish:
   - Balance: `$0` available, `$0` pending.
   - May 7 charges: none.
   - May 7 payment intents: none.

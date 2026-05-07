@@ -33,6 +33,7 @@ Checkout: https://buy.stripe.com/aFa7sLbmI1eS9G1cGv3sI1D
 - Monthly signal brief, $49/month: https://buy.stripe.com/4gM9AT9eA9LoaK59uj3sI1H
 - Workflow diagnostic, $499: https://buy.stripe.com/eVq6oH8aw8Hk05rdKz3sI1G
 - Meta DM Funnel Reliability Diagnostic, $499: https://buy.stripe.com/aFa6oHbmIf5I4lHdKz3sI1T
+- Subway-Style Restaurant AI Agent Bundle, $97: https://buy.stripe.com/00w6oH1M89Lo7xTayn3sI1V
 
 ## Best For
 
